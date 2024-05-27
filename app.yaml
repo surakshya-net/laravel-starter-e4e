@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: randomduck-laravel-starter-e4e
+owner: randomduck
+package: .
+scaling:
+  mode: single_concurrency
